@@ -3,6 +3,17 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# v0.35.2
+`Aug 5, 2022`
+
+## Fixed the following bugs
+- Negative like numbers
+- The top status bar does not show up on the premium member page (golden card)
+- Trackers issue
+  - The app crashes when creating multiple trackers quickly at the same time
+  - The trackers got duplicated when selecting and un-selecting trackers quickly when creating the post
+
+
 # v0.35.1
 `Aug 5, 2022`
 ## Fixed the following bugs
