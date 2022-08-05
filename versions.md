@@ -1,7 +1,7 @@
 # What's New
 
 This page shows the detailed updates of each app version.
-Please contact us at hello@epictopia.com if you have any issues.
+Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
 # v0.35.1
 `Aug 5, 2022`
