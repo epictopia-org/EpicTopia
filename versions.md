@@ -3,20 +3,29 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# v0.35.3
+`Aug 10, 2022`
+
+## Bug Fixes & Enhancements
+- Improved the UI quality of the information page for Activities Board and Trackers
+- Enhanced the smoothness and refreshing experience of the collection view by replacing ScrollView with List
+- Updated What's New section
+- Reduced the loading time for the Notification section by restructuring the Message module in Swift
+- Enhanced the loading logic of tracker info on the post by restructuring the PostTracker module to directly contain the tracker meta data
+
 # v0.35.2
 `Aug 5, 2022`
 
-## Fixed the following bugs
+## Bug Fixes & Enhancements
 - Negative like numbers
 - The top status bar does not show up on the premium member page (golden card)
 - Trackers issue
   - The app crashes when creating multiple trackers quickly at the same time
   - The trackers got duplicated when selecting and un-selecting trackers quickly when creating the post
 
-
 # v0.35.1
 `Aug 5, 2022`
-## Fixed the following bugs
+## Bug Fixes & Enhancements
 - Updated the invitation link to download the app
 - Fixed the login issue through Gmail
 - Fixed the crash issue caused by loading the epics
