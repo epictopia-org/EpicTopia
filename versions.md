@@ -3,6 +3,21 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+
+# v0.36.2
+`Aug 12, 2022`
+
+## Bug Fixes 
+- Corrected the order of notification list
+- Solved the conflict between the tracker information page and keyboard
+- Fixed a typo on the tracker information page
+- Fixed the "show more" on the post detail page
+- Fixed the navigation issue of the invitation banner (invisible background)
+- Fixed the navigation issue of the collection view (mistakenly adding an epic when clicking a blank space)
+
+## Enhancements
+- Show up the onboarding process when deleting and re-signing up the account
+
 # v0.35.3
 `Aug 10, 2022`
 
