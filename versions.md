@@ -3,6 +3,18 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# v0.37.3
+`Aug 27, 2022`
+
+## New features
+- Add reminders to the epics in the epic setting section
+- Notification center
+  - One click to clear all notifications
+  - One click to mark all notifications as read
+
+## Enhancements
+- Redesign the epic setting page 
+
 
 # v0.36.2
 `Aug 12, 2022`
