@@ -3,6 +3,13 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# v0.37.4
+`Aug 29, 2022`
+
+## Bug Fixes
+- Fixed the "show more" issue on the posts in the explore section and collection view
+- Fixed the bugs of bio placeholder, profile image setting, and signing up procedure
+
 # v0.37.3
 `Aug 27, 2022`
 
