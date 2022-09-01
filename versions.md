@@ -3,6 +3,18 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+
+# v0.38.0
+`Sep 1, 2022`
+
+## Enhancements
+- Select more than one picture at a time when uploading photos from the album
+- Direct the users to the detailed views of the post when clicking the system notification regarding a post
+
+## Bug Fixes
+- Fixed the issue that the notifications for epic reminders make no sound
+- Fixed the animation issue of the time picker when setting epic reminders
+
 # v0.37.4
 `Aug 29, 2022`
 
