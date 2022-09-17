@@ -3,6 +3,22 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.39.0
+## New features
+- Provide visualizations for trackers 
+  - Line charts for Number trackers
+  - Bar charts for Category and Duration trackers
+- Reminders for upgrading the app
+## Enhancements
+- Enhance image uploading process
+  - If an image is not uploaded successfully, automatically try another time
+  - Before successfully uploading an image, use the local image as a placeholder
+  - Display a "failure" icon if an image is not uploaded successfully
+- Improve the drag-to-refresh experience on the home page
+- Enhance image preview
+## Bug Fixes
+- Fix the image reloading issue when returning to the home page
+- Fix the image uploading error
 
 # v0.38.0
 `Sep 1, 2022`
