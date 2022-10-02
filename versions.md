@@ -3,6 +3,17 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.40.0
+## New features
+- Edit past memos and milestones
+- Notify users when their followers and subscriptions have updates
+## Enhancements & Bug Fixes
+- Trackers not showing up when creating a new memo
+- Enhanced visualizations of trackers in epic summary 
+  - Adjusted UI
+  - Corrected height calculation for bar charts
+- Crash issues for guest mode
+
 # 0.39.0
 ## New features
 - Visualizations for trackers 
