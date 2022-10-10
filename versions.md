@@ -12,7 +12,11 @@ Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any 
 - Enhanced visualizations of trackers in epic summary 
   - Adjusted UI
   - Corrected height calculation for bar charts
-- Crash issues for guest mode
+- Crash issues for signup and login
+- Fixed issues of the guest mode
+  - Error message for onboarding process of guest mode
+  - Profile image uploading issue
+  - Crash issues
 
 # 0.39.0
 ## New features
