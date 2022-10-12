@@ -7,16 +7,19 @@ Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any 
 ## New features
 - Edit past memos and milestones
 - Notify users when their followers and subscriptions have updates
+- Long press posts to copy the content
 ## Enhancements & Bug Fixes
 - Trackers not showing up when creating a new memo
 - Enhanced visualizations of trackers in epic summary 
   - Adjusted UI
   - Corrected height calculation for bar charts
+  - The tracker preview does not reflect the actual graph in the detailed view
 - Crash issues for signup and login
 - Fixed issues of the guest mode
   - Error message for onboarding process of guest mode
   - Profile image uploading issue
   - Crash issues
+- Error message when entering the post detailed view
 
 # 0.39.0
 ## New features
