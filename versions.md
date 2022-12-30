@@ -3,6 +3,21 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+
+
+# 0.41.0
+## New features
+- To-do tasks
+- Categories in the Explore section
+- User display name
+- Markdown editor for memos supporting bullet points, list, bold, and link
+## Enhancements & Bug Fixes
+- Enhanced UI for timeline, onboarding process, font style, epic summary, tracker, and badges
+- Added sound when completing a to-do task
+- Enhanced beginners' tasks
+- Fixed most exception errors and timeout errors
+
+
 # 0.40.0
 ## New features
 - Edit past memos and milestones
