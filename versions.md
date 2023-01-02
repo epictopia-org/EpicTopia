@@ -3,7 +3,9 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
-
+# 0.41.1
+## Bug Fixes
+- Wrong categories when creating epics
 
 # 0.41.0
 ## New features
