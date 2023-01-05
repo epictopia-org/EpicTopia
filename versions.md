@@ -5,7 +5,7 @@ Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any 
 
 # 0.42.0
 ## New features
-- Add and switch mood on tasks or memos 
+- Mood on tasks or memos 
 
 # 0.41.1
 ## Bug Fixes
