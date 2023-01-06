@@ -3,6 +3,12 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.43.0
+## Bug Fixes
+- Fixed google login issues
+- Fixed memo editing error (photo)
+- Wrong categories in Explore section
+
 # 0.42.0
 ## New features
 - Mood on tasks or memos 
