@@ -3,6 +3,14 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.44.0
+## New features
+- Enable type selection (memo, task, milestone, epic) when tapping the bottom "+" button
+## Bug Fixes
+- Fixed the issues of uploading duplicate photos and editing entries
+- Fixed default profile image for new users
+- Fixed the logic of Day # in timeline
+
 # 0.43.0
 ## Bug Fixes
 - Fixed google login issues
