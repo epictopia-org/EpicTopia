@@ -3,6 +3,18 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+
+# 0.45.0
+## New features
+- Add covers for epics
+- New memo editing structure (collapse irrelevant buttons when editing content)
+## Enhancements & Bug Fixes
+- Enhanced richtext editing UX (bold, bullet points, ordered list)
+- Restructured onboarding process (removed beginners' tasks and guide users to timeline first)
+- Fixed the logic of Day # in timeline
+- Fixed the UI issues of user profile (following & follower)
+
+
 # 0.44.0
 ## New features
 - Enable type selection (memo, task, milestone, epic) when tapping the bottom "+" button
