@@ -4,6 +4,16 @@ This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
 
+# 0.46.0
+## New features
+- Discover epics recommendations in the explore section
+- Gain better understanding of trackers with new explanations
+## Enhancements
+- Improved the epic summary section for a better user experience
+- Enhanced the process of adding and editing trackers
+## Bug Fixes
+- Fixed UI issues related to memo editing (font style, bold, photo)
+
 # 0.45.0
 ## New features
 - Add covers for epics
