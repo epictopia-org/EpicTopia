@@ -3,6 +3,10 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.46.1
+## Bug Fixes
+- Fixed UI issues in the summary section
+- Fixed issues when editing trackers
 
 # 0.46.0
 ## New features
