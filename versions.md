@@ -3,6 +3,11 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.46.2
+## Bug Fixes
+- Fixed UI issues when replying to the author
+- Fixed crash issues when subscribing to others' epics in the post detail view
+
 # 0.46.1
 ## Bug Fixes
 - Fixed UI issues in the summary section
