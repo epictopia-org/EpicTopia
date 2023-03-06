@@ -3,6 +3,12 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.46.5
+## Enhancements
+- Updated screenshots on the Apple Store
+## Bug Fixes
+- Fixed bugs that caused the explore page to be empty for new users and the banner animation to be abnormal after registration
+
 # 0.46.2
 ## Bug Fixes
 - Fixed UI issues when replying to the author
