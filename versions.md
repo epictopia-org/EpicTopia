@@ -3,6 +3,19 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.47.0
+## New features
+- Support photo editing when creating a memo
+## Enhancements
+- Enhanced the photo uploading procedure for memo, profile, and epic cover
+- Enhanced scrolling experience in the explore section and timeline section
+- Enhanced the onboarding animation
+- Improved data loading speed when re-entering the app
+## Bug Fixes
+- Fixed issues of the explore section (wrongly positioned photo and content not showing up)
+- Fixed issues of the guest mode
+- Fixed bugs that caused incomplete epic loading
+
 # 0.46.5
 ## Enhancements
 - Updated screenshots on the Apple Store
