@@ -3,6 +3,14 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.48.0
+## Enhancements
+- Improved the process of handling internal emails
+- Enhanced photo slicing when uploading an epic cover or profile photo
+- Improved memo UI and tracker UI for a more user-friendly and intuitive experience
+- Enhanced the experience of tasks
+- Improved the smoothness of entering the timeline from an epic in the home page
+
 # 0.47.0
 ## New features
 - Support photo editing when creating a memo
