@@ -3,6 +3,18 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.50.1
+## New Features 
+- Increased the max number of photo attachments in one memo from 3 to 9
+- Daily post recommendation
+- Timeline for all epics
+## Enhancements
+- Enhanced the memo editing view and task editing view
+- Simplified the process to create a new epic
+- Replaced the transition animation when entering timeline
+## Bug Fixes
+- Fixed the timeout bug when entering the app
+
 # 0.48.0
 ## Enhancements
 - Improved the process of handling internal emails
