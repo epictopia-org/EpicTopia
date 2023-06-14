@@ -3,6 +3,23 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 0.51.0
+## New Features 
+- Revamped the onboarding process for a smoother and more intuitive experience for newly registered users
+- Guide users to fill in the invitation code earlier in the process before entering personal information
+- Simplified the process of entering birthday
+- Pre-provide some example Epics during the onboarding process
+- Provide a user guide epic for users to get started
+- Introduced a helpful banner that prompts users to create Epics when content is sparse
+## Enhancements
+- Revamped the homepage for clarity and ease of use
+- Removed the Activities Board to streamline content
+- Introduced a convenient "+" button under each Epic for quick additions
+- Added an entry point to access the full Timeline with ease
+- Simplified our headers for a cleaner, more intuitive interface
+## Bug Fixes
+- Resolved an issue that occurred while re-editing photos in memos
+
 # 0.50.1
 ## New Features 
 - Increased the max number of photo attachments in one memo from 3 to 9
