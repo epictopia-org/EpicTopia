@@ -13,6 +13,15 @@ We're excited to announce Version 1.1.7, a significant leap forward in our app's
 - Improved Onboarding Process: Experience a smoother, clearer introduction to our app, making it easier for new users to get started.
 - Streamlined User Interface: Enjoy a simplified and refined UI, focusing on core functionalities for an enhanced user experience.
 
+# 1.1.3
+## New Features 
+- 2 main sections - Today's Section, Profile Section
+- Recurring tasks
+- AI features to generate a personalized path and advice
+## Enhancements
+- Improved onboarding process
+
+
 # 0.51.0
 ## New Features 
 - Revamped the onboarding process for a smoother and more intuitive experience for newly registered users
