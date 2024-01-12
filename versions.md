@@ -3,6 +3,16 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+
+# 1.1.7
+We're excited to announce Version 1.1.7, a significant leap forward in our app's evolution with groundbreaking features and enhancements.
+## New Features 
+- AI-Powered Personalized Planning: Unleash the power of AI to craft a personalized path for your life goals and provide detailed guidance.
+- Integrated Task Management: Stay organized with our new calendar and to-do task features, all seamlessly integrated into your daily workflow.
+## Enhancements
+- Improved Onboarding Process: Experience a smoother, clearer introduction to our app, making it easier for new users to get started.
+- Streamlined User Interface: Enjoy a simplified and refined UI, focusing on core functionalities for an enhanced user experience.
+
 # 0.51.0
 ## New Features 
 - Revamped the onboarding process for a smoother and more intuitive experience for newly registered users
