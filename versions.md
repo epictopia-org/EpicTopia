@@ -4,6 +4,13 @@ This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
 
+# 1.1.8
+In our latest update, we've taken a monumental step forward:
+
+## Enhancements
+- Significantly improved AI understanding of users' pursuits to craft more personalized and effective paths for your life goals or life journeys.
+- Experience enhanced stability and performance with crucial bug fixes.
+
 # 1.1.7
 We're excited to announce Version 1.1.7, a significant leap forward in our app's evolution with groundbreaking features and enhancements.
 ## New Features 
