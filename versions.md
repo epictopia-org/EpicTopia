@@ -3,7 +3,7 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
-# 1.1.9
+# 1.2.0
 In this update, we've focused exclusively on refining user experience:
 
 ## Enhancements
