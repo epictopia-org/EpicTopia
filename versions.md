@@ -3,15 +3,19 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 1.2.2
+In this update, we've focused exclusively on refining user experience:
+
+## Enhancements
+- Significantly improved the app's stability and performance with bug fixes.
+- Enhanced logging capabilities for better backend performance and diagnostics.
+- Addressed a major issue that prevented server access, ensuring consistent and reliable connectivity.
+
 # 1.2.0
 In this update, we've focused exclusively on refining user experience:
 
 ## Enhancements
 - Significantly improved the app's stability and performance with crucial bug fixes.
-
-## Enhancements
-- Significantly improved AI understanding of users' pursuits to craft more personalized and effective paths for your life goals or life journeys.
-- Enhanced stability and performance with crucial bug fixes.
 
 # 1.1.8
 In our latest update, we've taken a monumental step forward:
