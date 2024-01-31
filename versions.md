@@ -3,6 +3,11 @@
 This page shows the detailed updates of each app version.
 Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
 
+# 1.2.4
+In this update, we've focused exclusively on refining user experience:
+- Enhanced the user experience of creating entries
+- Significantly improved the app's stability and performance with bug fixes
+
 # 1.2.3
 In this update, we've focused exclusively on refining user experience:
 
