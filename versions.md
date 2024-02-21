@@ -1,9 +1,19 @@
 # What's New
 
 This page shows the detailed updates of each app version.
-Please contact us at [hello@epictopia.com](hello@epictopia.com) if you have any issues.
+Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
-# 1.2.6
+# 1.2.8
+In our latest update, we are excited to unveil a new transformative AI feature designed to enrich your growth journey.
+
+## New Features
+AI Weekly Summaries: Elevate your personal growth with AI-curated weekly insights, including Weekly Keywords, Data & Charts, Weekly Highlights, Life's Moments, AI Tailored Feedback, and Self-Reflection.
+
+## Enhancements
+We've reduced loading times and resolved profile-related bugs for a smoother, more responsive app interaction.
+
+
+# 1.2.7
 In this update, we've focused exclusively on refining user experience:
 - Upgraded email services
 - Significantly improved the app's stability and performance with bug fixes
