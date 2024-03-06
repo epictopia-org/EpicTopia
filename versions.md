@@ -3,6 +3,18 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.2.9
+
+We're excited to roll out Version 1.2.9, which brings a host of improvements and enhances the VIP experience for our users.
+
+## New Features
+VIP for Weekly Summaries: Unlock advanced insights with our new VIP features in the weekly summaries. Get deeper analysis, personalized feedback, and more to supercharge your growth journey.
+
+## Enhancements
+- Push Notifications: Ensure you're always up to date with our latest features, insights, and updates with new message push notifications.
+- Updated SwiftUI Components: Experience a more seamless and responsive UI as we transition from NavigationView to NavigationStack in our latest SwiftUI update.
+- Ongoing Bug Fixes: Our commitment to providing a smooth and reliable user experience continues with further bug fixes in this version.
+
 # 1.2.8
 In our latest update, we are excited to unveil a new transformative AI feature designed to enrich your growth journey.
 
