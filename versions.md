@@ -3,6 +3,13 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+# 1.3.0
+In this update, we've focused exclusively on refining user experience.
+
+## Enhancements
+We focused on enhancing the reliability and performance of our app through critical bug fixes affecting epic notifications and Entry detailed view.
+
 # 1.2.9
 
 We're excited to roll out Version 1.2.9, which brings a host of improvements and enhances the VIP experience for our users.
