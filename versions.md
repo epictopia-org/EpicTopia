@@ -4,6 +4,18 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.3.1
+We're proud to present Version 1.3.1, a step forward in refining user interactions and bolstering backend robustness.
+
+## Enhancements
+- Clicking on system push notifications now takes you directly to the intended page, enhancing your navigation experience for efficiency and ease.
+- Error Monitoring Improvement: Optimized error monitoring by eliminating filtering conditions on frontend error alerts, providing a more comprehensive oversight.
+
+## Bug Fixes
+- Fixed a glitch where timelines could be inaccessible due to an empty Epic ID parameter, ensuring smooth and continuous access.
+- Addressed a bug hindering new entries post-deletion of an Epic, streamlining content creation without interruptions.
+- Refined error handling within AI epic planning features for premium users, boosting overall stability and reliability.
+
 # 1.3.0
 In this update, we've focused exclusively on refining user experience.
 
