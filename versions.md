@@ -3,6 +3,16 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.3.2
+Welcome to Version 1.3.2, where we introduce exciting new functionality and enhancements to improve your app journey.
+
+## New Feature
+Epic Sharing via Web Link: Elevate your storytelling by sharing your public Epics with others through a convenient web page link, broadening the reach of your journey and insights.
+
+## Bug Fixes
+- Post UI Alignment Fix: Corrected a UI alignment issue within posts, particularly in the tasks displayed in the explore view, for a cleaner and more cohesive visual experience.
+- AI Weekly Summary UI Improvements: We've refined the UI of the AI Weekly Summary, addressing minor issues to enhance your review experience and interaction with insightful analytics.
+
 
 # 1.3.1
 We're proud to present Version 1.3.1, a step forward in refining user interactions and bolstering backend robustness.
