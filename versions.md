@@ -3,6 +3,13 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.3.4
+We're thrilled to roll out Version 1.3.4, bringing a highly requested feature to set entry reminders.
+
+## New Feature
+Entry Reminders with Time-Sensitive Notifications: Set reminders on any entry and opt-in for time-sensitive notifications. This ensures you’re alerted at the exact moment you need to be, making it easier than ever to stay on top of your commitments.
+
+
 # 1.3.2
 Welcome to Version 1.3.2, where we introduce exciting new functionality and enhancements to improve your app journey.
 
