@@ -3,6 +3,15 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.3.5
+In Version 1.3.5, our focus shifts towards internal improvements, fine-tuning our systems to deliver an even smoother and more reliable app experience.
+
+## Enhancements
+- Reduced False Alarm Exceptions: We've refined our error detection mechanisms to reduce false alarms in exception error email notifications, ensuring our team can respond more effectively to genuine issues.
+- Elastic IP for EC2 Services: By integrating Elastic IP with our EC2 services, we enhance the reliability and scalability of our infrastructure, ensuring seamless access and performance for our users.
+
+
+
 # 1.3.4
 We're thrilled to roll out Version 1.3.4, bringing a highly requested feature to set entry reminders.
 
