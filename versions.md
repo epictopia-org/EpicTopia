@@ -5,6 +5,7 @@ Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you
 
 # 1.3.7
 `Apr 20, 2024`
+
 Version 1.3.7 delivers focused improvements aimed at enhancing user interaction and comprehension, alongside critical stability fixes.
 
 ## Enhancements
