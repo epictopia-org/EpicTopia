@@ -3,6 +3,17 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.3.7
+`Apr 20, 2024`
+Version 1.3.7 delivers focused improvements aimed at enhancing user interaction and comprehension, alongside critical stability fixes.
+
+## Enhancements
+- Increased Clicking Area of Comment Button: To improve user experience, we've enlarged the clicking area for the comment button, making it easier and more intuitive to engage with posts.
+- Full Renaming of "Backlog" to "Unscheduled": We've completed the renaming process across the platform to "Unscheduled" to further enhance clarity and user understanding.
+
+## Bug Fixes
+- Fixed Crash Bug in Entry Rescheduling: Addressed and resolved a crash that occurred when dragging entries to a different date, ensuring a smoother and more reliable content management experience.
+
 # 1.3.6
 Version 1.3.6 introduces user-centric updates and bug fixes to enhance overall app functionality and user comprehension.
 
