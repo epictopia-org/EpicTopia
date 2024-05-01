@@ -3,6 +3,15 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.3.8
+`Apr 30, 2024`
+
+Version 1.3.8 addresses a specific yet critical issue for iOS users.
+
+## Bug Fixes
+Date & Time Setting Compatibility: We've fixed a bug affecting iOS users where the 12-hour date and time setting prevented access to backend services. This update ensures that both 24-hour and 12-hour settings work flawlessly with our app, enhancing compatibility and user experience.
+
+
 # 1.3.7
 `Apr 20, 2024`
 
