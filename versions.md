@@ -3,6 +3,24 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+# 1.3.9: Streamlined Editing and Enhanced Stability
+`May 9, 2024`
+
+Version 1.3.9 delivers focused enhancements and bug fixes to improve the editing experience, making entry and task management smoother and more intuitive.
+
+## Enhancements
+- Task Entry Improvements: Updated task entry to insert a new line between tasks when hitting enter, facilitating easier additions.
+- Timeline Scrolling Enhancement: Resolved stuttering issues during timeline scrolling caused by lazy loading and repeated refresh calculations.
+- Long Text Editing Stability: Enhanced long text editing experience for stable cursor behavior.
+- Consistent Loading Indicator: Standardized the spinning circle effect after editing trackers for uniformity.
+- Tracker Display Enhancement: Resolved issues with tracker units not fully displaying during edits, ensuring complete visibility and editability.
+
+## Bug Fixes
+- Tracker Details Persistence: Fixed bugs preventing the saving of edited tracker details.
+- Keyboard Dismissal on Commenting: Improved keyboard management, ensuring it dismisses correctly after commenting on a post.
+- Blank Task Handling: Resolved issues with entering blank or empty lines not creating new tasks, and fixed related crashes.
+
 # 1.3.8
 `Apr 30, 2024`
 
