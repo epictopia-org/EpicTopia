@@ -4,6 +4,25 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.4.0: Unified Planning and Timeline
+
+Version 1.4.0 marks a significant evolution in our app's functionality, incorporating major updates that streamline planning and timeline management with advanced AI integration.
+
+## New Features
+- We integrated the planning function directly into the timeline, which now accommodates future dates. Phases have been transitioned to milestones. This eliminates the separate planning module, consolidating past phases into milestones for a more cohesive view of your journey.
+- AI-generated plans are now fully editable and customizable, allowing you to tailor them to better fit your needs and objectives. 
+- New indicators have been added to milestones to reflect their completion status, accompanied by updated icons to enhance visual differentiation.
+
+## Enhancements
+- Refined the logic and performance of recurring entries to minimize bugs and improve overall system efficiency.
+- In AI-created Epics, AI now assigns dates to all entries and milestones in its suggested timeline.
+- Enhanced language detection based on Entry titles instead of Epic names when generating AI guidance or tasks,
+
+## Bug Fixes
+- Fixed a critical bug that prevented users from logging out, enhancing system reliability and user control.
+- Fixed issues related to missing user IDs upon registration.
+
+
 # 1.3.9: Streamlined Editing and Enhanced Stability
 `May 9, 2024`
 
