@@ -4,6 +4,22 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.4.1: Unified Date Settings
+
+Version 1.4.1 introduces thoughtful refinements across the board, aimed at streamlining operations and enriching the user experience.
+
+## New Features
+We've consolidated the time setting, repeat, and reminder options into a single window when creating a post, simplifying the process and enhancing user convenience.
+
+## Enhancements
+- Revamped Onboarding Experience: We've enhanced the onboarding process to better introduce new users to key features such as the timeline, entry creation, icon functionalities, and tracker usage, ensuring a comprehensive understanding from the start.
+- Faster Main Tab Navigation: Improved the switch speed between main tabs, significantly enhancing user interaction.
+Bug Fixes
+
+## Bug Fixes
+- Fixed a bug that affected the daily recommendation feature.
+
+
 # 1.4.0: Unified Planning and Timeline
 
 Version 1.4.0 marks a significant evolution in our app's functionality, incorporating major updates that streamline planning and timeline management with advanced AI integration.
