@@ -4,6 +4,21 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+
+# 1.4.2: Enhanced UI Consistency
+
+Version 1.4.2 delivers updates focused on UI enhancements and resolving technical issues for a smoother app experience.
+
+## Enhancements
+- Unified UI Style: Standardized pop-up windows for a more consistent and intuitive user interface.
+- 3-Party Swift Library Updates: Updated third-party libraries to improve app compatibility and performance.
+
+## Bug Fixes
+- Fixed conflicts between NavigationStack and NavigationLink to ensure fluid navigation.
+- Addressed issues with setting recurring times, enhancing reliability for scheduled events.
+
+
+
 # 1.4.1: Unified Date Settings
 
 Version 1.4.1 introduces thoughtful refinements across the board, aimed at streamlining operations and enriching the user experience.
