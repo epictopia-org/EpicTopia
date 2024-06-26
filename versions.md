@@ -5,6 +5,26 @@ Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you
 
 
 
+# 1.4.3: Introducing Epic Templates
+
+Version 1.4.3 introduces a valuable new feature specifically designed to support your life goals and journeys, along with several improvements aimed at enhancing app performance and stability.
+
+## New Feature
+Epic Template: Start your life goals or journeys with well-curated, step-by-step templates. Now you can kickstart an Epic—such as a self-care journey—directly from a structured template.
+
+## Enhancements
+- Faster Tab Switch: Enhanced the speed of switching between main tabs and reduced repeat requests, improving app responsiveness.
+- Improved Timeline Navigation: Refined the positioning of the past-now-future line to be more accurate in the timeline view, ensuring smoother transitions.
+- Refined iOS Error Logging: Optimized the process for logging iOS errors to improve error tracking.
+
+## Bug Fixes
+- Recurring Items Issue: Resolved a bug that prevented commenting on detached recurring items, ensuring full functionality.
+- Connection Loss Error Handling
+- Addressed issues related to inconsistent data returns in the daily management section.
+
+
+
+
 # 1.4.2: Enhanced UI Consistency
 
 Version 1.4.2 delivers updates focused on UI enhancements and resolving technical issues for a smoother app experience.
