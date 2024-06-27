@@ -3,8 +3,19 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.4.4: Enhancements and Bug Fixes
+Version 1.4.4 focuses on enhancing service responsiveness along with a series of bug fixes.
 
+## Enhancements
+- Reduced Cold Start Time: Addressed cold start issues to decrease loading times and enhance overall service responsiveness.
+- Improved AI Interaction Speed: Optimized AI message typing speed to enhance user interaction and efficiency.
+- Improved the email templates for registration and password resets, enhancing clarity and user communication.
 
+## Bug Fixes
+- Fixed an error that occurred when modifying posts from an Epic template and deleting trackers.
+- Corrected the AI process to ensure that when multiple posts are created on the same day, the start marker appears at the beginning of the day.
+- Resolved an issue where users like or unlike a single post for multiple times.
+ 
 # 1.4.3: Introducing Epic Templates
 
 Version 1.4.3 introduces a valuable new feature specifically designed to support your life goals and journeys, along with several improvements aimed at enhancing app performance and stability.
