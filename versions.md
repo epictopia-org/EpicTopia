@@ -3,6 +3,23 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+
+# 1.4.5: Onboarding Revamp
+
+`Jul 5, 2024`
+
+Version 1.4.5 introduces a significant overhaul of the onboarding process alongside critical performance improvements.
+
+## Enhancement
+- Revamped Onboarding: Completely redesigned the onboarding process and featured our first cute character, Epico, streamlining the introduction for new users and making it more engaging.
+- Improved Daily Feed Recommendations: Enhanced the logic behind daily feeds to recommend more intriguing content.
+- Increased Response Speed: Boosted the responsiveness of the app, particularly when interacting with features like trackers, sound, and calendar swipes, ensuring a faster user experience.
+- Enhanced Crash Log Data Saving: Improved the saving of crash log data to facilitate a more effective debugging process, aiming to reduce bugs and enhance app stability.
+- Robust Connection Handling: Implemented retry mechanisms to handle connection losses and timeouts more effectively, increasing the app’s resilience.
+- Optimized RDS Logging: Enhanced logging for RDS waitout issues to better diagnose and resolve potential database delays.
+
+
 # 1.4.4: Enhancements and Bug Fixes
 Version 1.4.4 focuses on enhancing service responsiveness along with a series of bug fixes.
 
