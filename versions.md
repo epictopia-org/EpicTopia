@@ -5,6 +5,21 @@ Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you
 
 
 
+## 1.4.6: Enhanced Onboarding
+
+`Jul 13, 2024`
+
+Version 1.4.6 brings enhancements to the onboarding experience and task management, along with bug fixes for a smoother app operation.
+
+## Enhancements
+- Improved Onboarding Experience: Enhanced the UI and streamlined the login/signup flow to make the onboarding process more intuitive for new users.
+- Enhanced To-Do List Responsiveness: Increased the responsiveness of the to-do list feature, ensuring tasks are handled swiftly.
+
+## Bug Fixes
+- Resolved an issue affecting the update of milestone statuses.
+- Corrected padding issues in the Today's section for better visual alignment.
+- Fixed a bug that caused sound issues when checking off the last to-do task, ensuring a consistent auditory feedback experience.
+
 # 1.4.5: Onboarding Revamp
 
 `Jul 5, 2024`
