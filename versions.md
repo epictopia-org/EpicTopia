@@ -3,6 +3,23 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+## 1.4.7: More responsive interactions
+
+`Jul 16, 2024`
+
+Version 1.4.7 introduces enhancements to increase the app's responsiveness, along with bug fixes.
+
+## Enhancements
+- Faster Email Verification: Updated the email system to send verification codes more quickly, streamlining the user verification process.
+- Increased Button Responsiveness: Improved the responsiveness of the like, subscribe, and follow buttons, and settings for visibility in epic configuration and data recovery windows for faster user interactions.
+- Image Preview Usability: Enabled users to close image previews by clicking outside the image area, making navigation more intuitive.
+- Enhanced Debugging Logs: Upgraded logging capabilities to better diagnose issues, enhancing the debugging process.
+
+## Bug Fixes
+- Added loading effects to address issues where text areas would go blank during JavaScript loading.
+- Corrected a calculation error regarding the number of AI operations used within a given month.
+- Fixed an issue where skipping name entry did not set a default name.
+- Resolved an exception that occurred when deleting an entry with to-do tasks detached from a recurring sequence.
 
 
 ## 1.4.6: Enhanced Onboarding
