@@ -3,6 +3,25 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+## 1.4.8: Streamlined AI Integration and Improved Reminders
+
+`Jul 25, 2024`
+
+Version 1.4.8 brings further enhancements to AI functionalities and user interface features, along with essential bug fixes to improve overall app performance.
+
+## Enhancements
+- Revamped AI-Generated Epic Process: Upgraded the AI-generated Epic creation process to include our character Epico and streamline the user journey.
+- Improved AI Guidance and Tasks: Enhanced the responsiveness of AI-generated guidance and tasks, delivering faster and more efficient user interactions.
+- Enhanced Calendar View: Improved the calendar view with a new section introduction, making it easier for users to navigate and utilize its features effectively.
+- Enhanced Daily Reminders: Boosted the functionality of daily reminders, now more effectively alerting users to uncompleted to-dos and milestones, ensuring nothing gets overlooked.
+
+## Bug Fixes
+- Fixed a bug that caused issues when pasting text into the description of an entry, ensuring smoother content management.
+- VIP Status Update Issues: Resolved problems related to updating VIP status, ensuring that all user privileges are correctly applied and maintained.
+
+
+
 ## 1.4.7: More responsive interactions
 
 `Jul 16, 2024`
