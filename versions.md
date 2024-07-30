@@ -4,6 +4,17 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+## 1.4.9: Enhanced Onboarding and Entry Editing Experience
+
+`Jul 29, 2024`
+
+Upgrade to Version 1.4.9 for a more intuitive onboarding experience and smoother entry editing.
+
+## Enhancements
+- Improved Onboarding Narrative: Enhanced the onboarding narrative to provide clearer guidance and a more engaging introduction for new users, ensuring they understand and can effectively utilize the app from the start.
+- Refined Entry Editing Experience: Enhanced the paste and exit animations for description editing and task lists, creating a smoother interaction.
+- Enhanced Calendar and Unscheduled Section Introductions: Improved the introductions for the calendar view and unscheduled sections.
+
 ## 1.4.8: Streamlined AI Integration and Improved Reminders
 
 `Jul 25, 2024`
