@@ -3,6 +3,21 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+## 1.5.0: Introducing AI Epic Revision and Epic imported from Image
+
+`Aug 3, 2024`
+
+Version 1.5.0 rolls out exciting new features, including AI customized revision and Epics import from images.
+
+## New Features
+- AI Revision by Custom Prompt: Now supports the ability to revise AI-generated Epics using customized prompts, offering more personalized content.
+- Epic Creation from Images: Enabled a new feature that allows users to create Epics by importing text from images using OCR and AI.
+
+## Enhancements
+- Updated Branding and Loading Page: Improved the branding logo on several pages and enhanced the loading page design to align with our visual identity.
+
+## Bug Fixes
+- Fixed sync issues with trackers.
 
 ## 1.4.9: Enhanced Onboarding and Entry Editing Experience
 
