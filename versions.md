@@ -3,7 +3,7 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
-## 1.5.0: Introducing AI Epic Revision and Epic imported from Image
+## 1.5.0: Introducing AI Epic Revision and Epic Imported from Image
 
 `Aug 3, 2024`
 
