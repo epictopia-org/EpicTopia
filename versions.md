@@ -3,7 +3,23 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
-## 1.5.0: Introducing AI Epic Revision and Epic Imported from Image
+# 1.5.1: Collaborators, New Logo, New Widget and Quick Action.
+
+`Aug 12, 2024`
+
+Version 1.5.1 introduces exciting new features including Epic Collaborators, new Widget, and Quick Action.
+
+## New Features
+- Add Collaborators to Epic: Allows you to add collaborators to Epics, enabling multiple users to work together and contribute to the same Epic seamlessly.
+- Quick Action: Now you can create an entry quickly by long-pressing the app icon.
+- Today's Entries Widget: Check your entries for today with our new widget.
+- New Logo Introduction: Introducing a new logo featuring our character Epico, your companion on all your Epic journeys.
+
+## Enhancement
+- Enhanced the process of revising Epics to make it smoother and more intuitive.
+
+
+# 1.5.0: Introducing AI Epic Revision and Epic Imported from Image
 
 `Aug 3, 2024`
 
@@ -19,7 +35,7 @@ Version 1.5.0 rolls out exciting new features, including AI customized revision 
 ## Bug Fixes
 - Fixed sync issues with trackers.
 
-## 1.4.9: Enhanced Onboarding and Entry Editing Experience
+# 1.4.9: Enhanced Onboarding and Entry Editing Experience
 
 `Jul 29, 2024`
 
@@ -30,7 +46,7 @@ Upgrade to Version 1.4.9 for a more intuitive onboarding experience and smoother
 - Refined Entry Editing Experience: Enhanced the paste and exit animations for description editing and task lists, creating a smoother interaction.
 - Enhanced Calendar and Unscheduled Section Introductions: Improved the introductions for the calendar view and unscheduled sections.
 
-## 1.4.8: Streamlined AI Integration and Improved Reminders
+# 1.4.8: Streamlined AI Integration and Improved Reminders
 
 `Jul 25, 2024`
 
@@ -48,7 +64,7 @@ Version 1.4.8 brings further enhancements to AI functionalities and user interfa
 
 
 
-## 1.4.7: More responsive interactions
+# 1.4.7: More responsive interactions
 
 `Jul 16, 2024`
 
@@ -67,7 +83,7 @@ Version 1.4.7 introduces enhancements to increase the app's responsiveness, alon
 - Resolved an exception that occurred when deleting an entry with to-do tasks detached from a recurring sequence.
 
 
-## 1.4.6: Enhanced Onboarding
+# 1.4.6: Enhanced Onboarding
 
 `Jul 13, 2024`
 
