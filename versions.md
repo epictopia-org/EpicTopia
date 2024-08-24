@@ -3,6 +3,26 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+
+
+# 1.5.2: Entry Templates, Sharing Integration, and More Icons.
+
+`Aug 24, 2024`
+
+## New Features
+- Entry Templates: Users can now create and save their own templates for each Epic.
+- Sharing Integration: Share text, photos, and links from other apps directly into our app to create new entries, enhancing the ability to capture inspiration and information on the go.
+- More Entry Icon Options: Added more icons for entries, each associated with different text placeholders to enrich the entry creation experience.
+- AI-Generated Initial Entry: Automatically generate an initial entry for users after creating an Epic with AI, focusing on their initial motivation and reasons for starting their Epic journey.
+
+## Enhancements
+- More Concise AI Messages: Streamlined AI-generated messages to deliver clearer, more concise communication.
+- Enhanced Timezone Management: Improved timezone handling when creating new Epics, ensuring accurate timing and scheduling regardless of user location.
+- Improved Follow-Up Questions: Enhanced the quality and variety of follow-up questions provided by AI when creating a new Epic.
+
+
+
 # 1.5.1: Collaborators, New Logo, New Widget and Quick Action.
 
 `Aug 12, 2024`
