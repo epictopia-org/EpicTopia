@@ -4,6 +4,18 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.5.3
+
+`Sep 1, 2024`
+
+## Enhancements
+- Official Logo Transition: We have officially converted to our new logo, featuring our character Epico, to better represent our brand.
+- Streamlined Onboarding Process: Revamped the onboarding process to better convey the value of our app and guide new users in starting their Epic with AI.
+- Enhanced AI Process: Improved the AI revision process on the Epic.
+- Improved Content Sharing: Enhanced the process for sharing images and text to the app, ensuring a more seamless integration of content from external sources.
+- Reliable VIP Status Updates: Improved the VIP status update process to ensure better reliability and consistency for premium users.
+- Reporting and Review Process: Enhanced the process for reporting others' entries and the subsequent review process, ensuring a safer community environment.
+
 
 
 # 1.5.2: Entry Templates, Sharing Integration, and More Icons.
