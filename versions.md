@@ -3,6 +3,17 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.5.4: Bug Fixes
+
+`Sep 3, 2024`
+
+Version 1.5.4 focuses on resolving critical bugs to improve the overall functionality and reliability of the EpicTopia app.
+
+## Bug Fixes
+- Commenting Issues Resolved: Fixed problems encountered when commenting on entries, ensuring a more reliable interaction for users.
+- Editing Permission Corrections: Addressed issues regarding editing permissions to ensure that users have appropriate access and controls.
+- Content Sharing Fixes: Resolved issues related to sharing content like images and text to the EpicTopia app.
+
 
 # 1.5.3
 
