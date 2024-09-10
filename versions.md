@@ -3,6 +3,24 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.5.5: Advanced AI Tools for Entries
+
+`Sep 9, 2024`
+
+Version 1.5.5 introduces exciting AI features to enhance the creation and management of entries.
+
+## New Features
+- AI-Powered Content Cleaning: Use AI to refine and clean your writing content directly within an entry, enhancing clarity and grammar.
+- AI-Generated Inspirations: When creating a new entry on an Epic, AI can now provide creative prompts and inspirations to spark ideas.
+- AI-Created Journal Templates: AI can generate customized journal templates based on your entry title, tailored to fit the theme and purpose of your entry.
+- AI-Driven Start Guidance: Within an entry detail page, AI now offers start guidance to help you start with your task easily.
+
+## Enhancements
+- Enhanced AI Start Guidance: Improved AI-generated guidance for incomplete tasks.
+- AI Task Decomposition: Enhanced the process where AI decomposes tasks based on the task title.
+- Improved UI for AI Features: The user interface for AI features on entries has been enhanced, making these tools more visual-friendly and easier to use.
+
+
 # 1.5.4: Bug Fixes
 
 `Sep 3, 2024`
