@@ -3,6 +3,18 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+# 1.5.6: Viewers
+
+`Sep 12, 2024`
+
+## New Feature
+Viewers for Private Epics: Now you can add viewers to your private Epics, allowing selected individuals to view content without granting them editing permissions. This feature enhances privacy while enabling broader sharing of your journey.
+
+## Enhancements
+Improved Collaborator Features: Enhancements have been made to the collaborator functionalities, making it easier and more intuitive.
+
+
 # 1.5.5: Advanced AI Tools for Entries
 
 `Sep 9, 2024`
