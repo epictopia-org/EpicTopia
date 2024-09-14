@@ -3,6 +3,16 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.5.7: Enhancements on Entry Template and Onboarding
+
+`Sep 14, 2024`
+
+Version 1.5.7 focuses on enhancing the usability of entry templates and refining the onboarding process for new users.
+
+## Enhancements
+- We now support the ability to edit and delete entry templates, providing users with greater flexibility.
+- Enhanced the onboarding process to better guide new users through navigating the app, making it easier for them to understand the available features.
+
 
 # 1.5.6: Viewers
 
