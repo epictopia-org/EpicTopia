@@ -3,6 +3,14 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+# 1.5.8: Bug Fixes
+
+`Sep 18, 2024`
+
+## Bug Fixes
+- Fixed bugs in the onboarding process and entry templates from the previous version.
+
 # 1.5.7: Enhancements on Entry Template and Onboarding
 
 `Sep 14, 2024`
