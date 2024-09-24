@@ -3,6 +3,18 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.5.9: Timeline Enhancements and Subscription Management
+
+`Sep 24, 2024`
+
+Version 1.5.9 introduces a new feature for timeline management and important enhancements to subscription handling.
+
+## New Feature
+- Added time labels such as "Today," "Tomorrow," and "Past" to the timeline for a clearer chronological view. Also enhanced the onboarding process to better introduce users to timeline navigation.
+
+## Enhancements
+- Improved handling of premium subscriptions, especially addressing edge cases where the Apple ID and account details do not match, ensuring a seamless integration.
+- Enhanced the uploading experience for image covers of Epics.
 
 # 1.5.8: Bug Fixes
 
