@@ -3,6 +3,25 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+# 1.6.1: Daily Inspiration
+
+`Sep 27, 2024`
+
+Version 1.6.1 introduces the Daily Spark feature to inspire creativity.
+
+## New Feature
+- Daily Spark: Receive AI-personalized daily prompts to inspire your entries, ideal for moments when you need a creative boost or have nothing specific in mind.
+
+## Enhancements
+- More Creative Inspiration for Entries: Enhanced the mechanisms for generating creative inspiration, providing richer and more diverse prompts to fuel your reflection.
+
+## Bug Fixes
+- Post Deletion Issue Fixed: Addressed a bug that prevented users from deleting posts in the daily view, ensuring smoother management and better control over your content.
+
+
+
+
 # 1.5.9: Timeline Enhancements and Subscription Management
 
 `Sep 24, 2024`
