@@ -4,6 +4,16 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.6.2: Pie Chart View
+
+`Sep 28, 2024`
+
+Version 1.6.2 introduces a new feature to enhance the visualization of your efforts across various pursuits.
+
+## New Feature
+- Epic Category Pie Chart: A new pie chart visualizes the breakdown of committed days across different Epic categories, helping you better understand your dedication.
+
+
 # 1.6.1: Daily Inspiration
 
 `Sep 27, 2024`
