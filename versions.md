@@ -3,6 +3,24 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.6.4: Enhanced Calendar Empty View
+
+`Sep 30, 2024`
+
+Version 1.6.4 introduces a significant improvement to calendar Empty View, along with enhancements and bug fixes to ensure a seamless user experience.
+
+## New Feature
+- Enhanced Calendar Empty View: Improved user interaction for empty dates in the calendar view.
+- Caching: Implemented caching for the current 7 days to reduce unnecessary reloading, improving app responsiveness.
+
+## Enhancements
+- Template Editing: Improved the editing and creation of templates to prevent accidental closures caused by scrolling.
+
+## Bug Fixes
+- Addressed a UI bug affecting the timeline view on iOS 18 systems, ensuring smooth functionality.
+
+
+
 
 # 1.6.2: Pie Chart View
 
