@@ -3,6 +3,21 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.6.5: Notification Enhancements
+
+`Oct 8, 2024`
+
+Version 1.6.5 enhances notification functionality, ensuring more accurate delivery.
+
+## Enhancements
+- Notification Navigation: Improved push notifications for iOS devices to ensure that clicking on a notification takes you directly to the relevant page.
+- Notification Read Status Sync: Enhanced the synchronization of notification read statuses for weekly summary notifications.
+
+## Bug Fixes
+- Duplicate Notification Handling: Solved issues with duplicate notifications on the same topic, streamlining communication and reducing clutter.
+
+
+
 # 1.6.4: Enhanced Calendar Empty View
 
 `Sep 30, 2024`
