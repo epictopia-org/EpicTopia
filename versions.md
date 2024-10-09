@@ -7,14 +7,19 @@ Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you
 
 `Oct 8, 2024`
 
-Version 1.6.5 enhances notification functionality, ensuring more accurate delivery.
+Version 1.6.5 introduces enhanced notification functionality and improvements to the timeline and calendar views for a smoother user experience.
+
 
 ## Enhancements
-- Notification Navigation: Improved push notifications for iOS devices to ensure that clicking on a notification takes you directly to the relevant page.
-- Notification Read Status Sync: Enhanced the synchronization of notification read statuses for weekly summary notifications.
+- Improved push notifications for iOS devices to ensure that clicking on a notification takes you directly to the relevant page.
+- NEnhanced the synchronization of notification read statuses for weekly summary notifications.
+- Reduced waiting times when switching to the daily calendar view, enhancing speed and responsiveness.
+- Improved data caching for the current week to ensure faster access and reduced loading times.
+- Enhanced the timeline view by hiding editing options on completed or discontinued Epics, focusing on relevant content.
 
 ## Bug Fixes
-- Duplicate Notification Handling: Solved issues with duplicate notifications on the same topic, streamlining communication and reducing clutter.
+- Solved issues with duplicate notifications on the same topic, streamlining communication and reducing clutter.
+- Corrected the positioning of year tags in the timeline view to ensure an accurate and clear display.
 
 
 
