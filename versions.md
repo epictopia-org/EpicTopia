@@ -3,6 +3,21 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.6.6: Enhanced Notifications for Weekly Reviews
+
+`Oct 11, 2024`
+
+Version 1.6.6 focuses on improving the notifications for weekly reviews.
+
+## Enhancements
+- Improved Weekly Review Notifications: Enhanced the notification system to more effectively alert users when a new weekly review is ready.
+- Enhanced Synchronization of Read Statuses: Improved the synchronization of read statuses for weekly summary notifications across different views.
+
+## Bug Fixes
+- Fixed a bug where changes to reminder settings on entries were not being saved unless other changes were made simultaneously.
+
+
+
 # 1.6.5: Notification Enhancements
 
 `Oct 8, 2024`
