@@ -3,6 +3,20 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.6.7: Sharing Entries
+
+`Oct 14, 2024`
+
+Version 1.6.7 introduces a new feature for sharing entries and enhances navigation within the app.
+
+## New Feature
+- Now you can easily share your entries by saving them as images, making it simpler to share your progress and insights across different platforms.
+
+## Enhancement
+- Enhanced the navigation process between the profile view and profile settings, ensuring a smoother transition and better user experience.
+
+
+
 # 1.6.6: Enhanced Notifications for Weekly Reviews
 
 `Oct 11, 2024`
