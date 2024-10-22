@@ -3,6 +3,28 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+# 1.6.8: AI Planning Improvements and Faster Editing
+
+`Oct 22, 2024`
+
+Version 1.6.8 introduces significant AI enhancements, faster entry management, and updated security measures.
+
+## New Features
+- Enhanced AI for New Epics: Improved the AI process for creating new Epics (personal journeys or goals), including better follow-up questions and higher quality AI-generated plans.
+
+## Enhancements
+- Faster Entry Creation and Editing: Optimized the time it takes to create and edit entries, significantly speeding up these processes.
+- More Vivid Onboarding UI: Enhanced the user interface for onboarding new users, making it more engaging and visually appealing.
+- Updated iOS App Dependencies: Refreshed dependencies to ensure better performance and compatibility with the latest iOS versions.
+
+## Bug Fixes
+- VIP Privilege Calculation: Fixed issues with the calculation of VIP privileges to ensure accurate access and benefits.
+- Stricter Access Controls: Implemented more stringent access controls to enhance privacy and security.
+
+
+
+
 # 1.6.7: Sharing Entries
 
 `Oct 14, 2024`
