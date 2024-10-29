@@ -4,6 +4,21 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.6.9: Enhanced AI Weekly Review, Improved Entry Sharing, and UI Upgrades
+
+`Oct 29, 2024`
+
+Version 1.6.9 focuses on enriching the AI weekly review, enhancing entry sharing, and refining the home view UI.
+
+## New Features
+- Growth Analysis in Weekly Review: Introduced a new growth analysis section in the weekly review, offering deeper insights into your personal progress and achievements.
+- Sharing Entries to Other Apps: Added the ability to share entries directly to other applications.
+
+## Enhancements
+- Enhanced the weekly review's UI and content quality, making it more personalized, with highlights now categorized by Epics.
+- Home Page UI Refresh: Updated the home page layout and introduced a new theme for Halloween.
+
+
 # 1.6.8: AI Planning Improvements and Faster Editing
 
 `Oct 22, 2024`
