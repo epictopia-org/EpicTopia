@@ -3,6 +3,20 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.7.0: UI Enhancements
+
+`Nov 2, 2024`
+
+Version 1.7.0 brings significant updates to the UI for weekly summaries, optimizes image handling, and addresses crucial performance issues.
+
+## Enhancements
+- Improved Weekly Summary UI, offering a more visually appealing experience.
+- Enhanced the process of slicing and uploading images, improving the overall usability.
+
+## Bug Fixes
+- Addressed the issue of long loading times, significantly speeding up the app launch process.
+- Resolved problems with image previews not displaying correctly on iOS 18.
+
 
 # 1.6.9: Enhanced AI Weekly Review, Improved Entry Sharing, and UI Upgrades
 
