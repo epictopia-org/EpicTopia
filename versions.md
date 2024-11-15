@@ -3,6 +3,25 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+# 1.7.2: Enhanced User Experience
+
+`Nov 15, 2024`
+
+Version 1.7.2 introduces several user experience enhancements to improve functionality and interaction.
+
+## New Features
+- AI-Generated Self Messages: For each AI-created Epic (personal journey or goal), AI will now generate a personalized message, enhancing the motivational aspect of the experience.
+- New Epic Detail View: Introducing a completely revamped detail view for Epics, providing a visually appealing view.
+- Daily Celebration Window: New feature to celebrate daily commitments, celebrating every step of your journey.
+
+## Enhancements
+- Improved AI Epic Plan Preview: Enhanced the preview when generating an Epic with AI, offering a clearer glimpse of the plan.
+- Enhanced AI Weekly Review: Improved the user experience during interactions with the AI weekly review.
+- Improved Consistency of Active Records: Enhanced the consistency and accuracy of active record tracking, ensuring reliable data across all user interactions.
+- Enhanced Image Uploading Process: Improved the image uploading process, making it more efficient.
+
+
 # 1.7.0: UI Enhancements
 
 `Nov 2, 2024`
