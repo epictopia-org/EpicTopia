@@ -4,11 +4,11 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
-# 1.7.2: Enhanced User Experience
+# 1.7.3: Enhanced User Experience
 
-`Nov 15, 2024`
+`Nov 18, 2024`
 
-Version 1.7.2 introduces several user experience enhancements to improve functionality and interaction.
+Version 1.7.3 introduces several user experience enhancements to improve functionality and interaction.
 
 ## New Features
 - AI-Generated Self Messages: For each AI-created Epic (personal journey or goal), AI will now generate a personalized message, enhancing the motivational aspect of the experience.
@@ -20,6 +20,13 @@ Version 1.7.2 introduces several user experience enhancements to improve functio
 - Enhanced AI Weekly Review: Improved the user experience during interactions with the AI weekly review.
 - Improved Consistency of Active Records: Enhanced the consistency and accuracy of active record tracking, ensuring reliable data across all user interactions.
 - Enhanced Image Uploading Process: Improved the image uploading process, making it more efficient.
+- Improved Time Setting for Recurring Items: Enhanced the experience of setting times for recurring items.
+- Enhanced Epic Deletion Experience: Improved the user experience when deleting an Epic, making it less disruptive.
+
+## Bug Fixes
+- Resolved problems encountered when editing settings for recurring items.
+- Addressed content display problems in AI-generated entries.
+- Resolved an issue where images in the weekly summary's memory section could not be viewed.
 
 
 # 1.7.0: UI Enhancements
