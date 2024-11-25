@@ -3,6 +3,22 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.7.4: Thanksgiving Theme
+
+`Nov 25, 2024`
+
+## New Features
+- Thanksgiving Theme: Celebrate the season with a new Thanksgiving theme.
+- Rating & Review Request: We've implemented a feature to request ratings and reviews from our users, helping us improve our app based on your feedback.
+
+## Enhancements
+- Enhanced loadings view to enhance the user experience during data processing, reducing perceived wait times.
+
+## Data Fixes
+- Addressed issues with data consistency and improved the loading speed for the daily activities view, ensuring accurate and timely information display.
+- Corrected visualization errors in trackers, ensuring that all tracking data is displayed accurately.
+
+
 
 # 1.7.3: Enhanced User Experience
 
