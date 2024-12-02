@@ -3,6 +3,19 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+# 1.7.5: Focus Timing
+
+`Dec 2, 2024`
+
+Version 1.7.5 introduces focus timing for duration trackers.
+
+## New Features
+- Focus Timing: Introduce a timing count for duration trackers in Focus mode, allowing users to precisely measure the amount of time spent on specific activities within their Epics.
+- Add Button: Expanded the functionality of the 'Add' button. Now, it not only allows you to create new entries but also lets you initiate a focus session or add an Epic, enhancing flexibility and efficiency.
+
+
+
 # 1.7.4: Thanksgiving Theme
 
 `Nov 25, 2024`
