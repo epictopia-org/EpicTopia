@@ -4,6 +4,20 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.7.6: Focus Mode Enhancement
+
+`Dec 3, 2024`
+
+Version 1.7.6 rolls out improvements to the design of focus mode and addresses associated bugs.
+
+## Enhancement
+- Enhanced Focus Mode Design: A redesigned focus mode offers a more user-friendly interface.
+
+## Bug Fixes
+- Resolved a bug where tracker timing for whole hours was incorrectly displayed as zero.
+
+
+
 # 1.7.5: Focus Timing
 
 `Dec 2, 2024`
