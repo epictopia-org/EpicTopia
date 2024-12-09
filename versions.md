@@ -4,6 +4,18 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.7.7: New Epic View - Months
+
+`Dec 9, 2024`
+
+## New Feature
+- New Epic View: Introducing a new view that allows you to see your Epic data over months, providing an overview of the timeline.
+
+## Bug Fix
+- Resolved a stability issue that caused crashes in the Today view, ensuring smoother and more reliable app performance.
+
+
+
 # 1.7.6: Focus Mode Enhancement
 
 `Dec 3, 2024`
