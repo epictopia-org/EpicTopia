@@ -3,6 +3,22 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.7.8: Christmas Theme and Performance Enhancements
+
+`Dec 18, 2024`
+
+Version 1.7.8 brings festive updates and significant improvements to app performance.
+
+## New Feature
+- Christmas Theme: Celebrate the season with a new Christmas theme.
+
+## Enhancements
+- Improved the loading speed of the epic details view, making access to information more efficient.
+- Enhanced the scrolling mechanism within the epic details view to ensure smoother navigation.
+
+## Bug Fix
+- Resolved issues related to selecting entries when creating an Epic from a template.
+
 
 # 1.7.7: New Epic View - Months
 
