@@ -3,9 +3,19 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.7.9: Onboarding UI Fix
+
+`Dec 15, 2025`
+
+Version 1.7.9 addresses a specific UI issue to enhance the onboarding experience for new users.
+
+## Bug Fix
+- Corrected a minor UI problem encountered during the onboarding process in the timeline view, ensuring a smoother introduction for new users.
+
+
 # 1.7.8: Christmas Theme and Performance Enhancements
 
-`Dec 18, 2024`
+`Dec 12, 2024`
 
 Version 1.7.8 brings festive updates and significant improvements to app performance.
 
