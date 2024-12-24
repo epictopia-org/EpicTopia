@@ -3,6 +3,18 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.8.0: Enhanced Tracker and Months View
+
+`Dec 24, 2024`
+
+## New Features
+- Enhanced Trackers with Targets: Trackers now support adding specific targets and feature a new cumulative visualization view.
+- Enhanced Epic Months View: The Epic Months view has been updated to allow detailed viewing of the overview.
+- New Badges for 2025: Introducing a series of newly developed badges to earn in 2025.
+
+## Bug Fixes
+- Fixed instability issues in the badge claiming process.
+
 # 1.7.9: Onboarding UI Fix
 
 `Dec 15, 2025`
