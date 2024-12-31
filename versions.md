@@ -3,6 +3,18 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+
+# 1.8.1: New Year Resolutions and Year-End Review
+
+`Dec 31, 2024`
+
+## New Features
+- Set Your New Year Resolution: Introducing a feature that allows you to set and track your New Year resolutions directly within the app.
+- Recap 2024: A new year-end review feature that provides a comprehensive recap of your 2024 achievements and experiences, offering insights to inform your future goals.
+
+
+
 # 1.8.0: Enhanced Tracker and Months View
 
 `Dec 24, 2024`
