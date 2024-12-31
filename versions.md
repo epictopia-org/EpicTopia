@@ -11,7 +11,7 @@ Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you
 
 ## New Features
 - Set Your New Year Resolution: Introducing a feature that allows you to set and track your New Year resolutions directly within the app.
-- Recap 2024: A new year-end review feature that provides a comprehensive recap of your 2024 achievements and experiences, offering insights to inform your future goals.
+- Recap 2024: A new year-end review feature that provides a recap of your 2024 achievement, offering insights to inform your future goals.
 
 
 
