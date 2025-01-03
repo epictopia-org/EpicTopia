@@ -3,6 +3,16 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.8.2: UI Enhancements and Bug Fixes
+
+`Jan 3, 2025`
+
+## Enhancements
+- Improved the user interface and animations for the 2024 New Year resolution feature and the year-end recap, providing a more engaging experience.
+- Adjusted the user interface to better accommodate small screen sizes.
+
+## Bug Fixes
+- Addressed a bug in the onboarding process to ensure a smoother and more reliable introduction for new users.
 
 
 # 1.8.1: New Year Resolutions and Year-End Review
