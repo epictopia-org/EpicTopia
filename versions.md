@@ -3,7 +3,7 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
-# 1.8.2: UI Enhancements and Bug Fixes
+# 1.8.3: UI Enhancements and Bug Fixes
 
 `Jan 3, 2025`
 
