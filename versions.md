@@ -3,6 +3,15 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.8.4: Stability Improvement for Annual Recap
+
+`Jan 11, 2025`
+
+## Bug Fix
+- Resolved a problem that caused the app to crash during the annual recap feature, ensuring a more reliable experience.
+
+
+
 # 1.8.3: UI Enhancements and Bug Fixes
 
 `Jan 3, 2025`
