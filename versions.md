@@ -3,12 +3,16 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
-# 1.8.4: Stability Improvement for Annual Recap
+# 1.8.6: Enhanced Epic Months View and Stability Fixes
 
-`Jan 11, 2025`
+`Jan 16, 2025`
+
+## Enhancement
+- Enhanced Months View in Epic Detail: Significantly improved the functionality of the Months view within the Epic detail page. Now supports editing and provides a better viewing experience with an improved user interface.
 
 ## Bug Fix
 - Resolved a problem that caused the app to crash during the annual recap feature, ensuring a more reliable experience.
+- Addressed a crashing issue related to trackers, enhancing stability and functionality.
 
 
 
