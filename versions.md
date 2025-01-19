@@ -763,6 +763,7 @@ We're excited to announce Version 1.1.7, a significant leap forward in our app's
 - Streamlined User Interface: Enjoy a simplified and refined UI, focusing on core functionalities for an enhanced user experience.
 
 # 1.1.3
+`Dec 31, 2023`
 ## New Features 
 - 2 main sections - Today's Section, Profile Section
 - Recurring tasks
@@ -881,6 +882,7 @@ We're excited to announce Version 1.1.7, a significant leap forward in our app's
 - Wrong categories when creating epics
 
 # 0.41.0
+`Dec 30, 2022`
 ## New features
 - To-do tasks
 - Categories in the Explore section
