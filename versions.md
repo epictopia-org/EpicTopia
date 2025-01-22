@@ -3,6 +3,25 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+# 1.8.7: Search Entries, Enhanced Premium Intro, Faster Entry Loading
+
+`Jan 22, 2025`
+
+## New Features
+- Search Entries Within Epic: Introduce a search feature within each Epic, allowing users to quickly find specific entries by keywords.
+
+## Enhancements
+- Faster Entry Details View Loading: Enhanced the entry details view by preloading JavaScript and replacing the previous preview method with a textView, significantly speeding up content review.
+- VIP Visuals Update: Improved the visuals for starting premium services or previewing the AI weekly review, enhancing the user experience for VIP subscribers.
+- Expanded Password Length: Increased the maximum password length to 20 characters to better accommodate auto-filled passwords provided by Apple, enhancing security and convenience.
+
+## Bug Fixes
+- Fixed an issue that caused unnecessary server requests after switching services from different environments internally, enhancing system efficiency.
+- Improved error logging to better identify whether issues occur in testing, TestFlight, or production environments, aiding in faster resolution and clearer diagnostics.
+
+Upgrade to Version 1.8.7 for a more efficient, secure, and user-friendly experience with enhanced search capabilities and quicker entry reviews.
+
 # 1.8.6: Enhanced Epic Months View and Stability Fixes
 
 `Jan 16, 2025`
