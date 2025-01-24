@@ -4,6 +4,18 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.8.8: Comprehensive Bug Fixes
+
+`Jan 24, 2025`
+
+Version 1.8.8 focuses on resolving edge case bugs identified during comprehensive testing to ensure enhanced app reliability.
+
+## Bug Fixes
+- Addressed and resolved a series of edge case bugs discovered during extensive testing phases. These fixes target various aspects of the app, improving overall stability and performance.
+
+
+
+
 # 1.8.7: Search Entries, Enhanced Premium Intro, Faster Entry Loading
 
 `Jan 22, 2025`
