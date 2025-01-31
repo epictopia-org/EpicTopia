@@ -4,6 +4,14 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.8.9: Stability Improvement for AI-Generated Epics
+
+`Jan 30, 2025`
+
+## Bug Fix
+- Resolved a bug that caused the app to crash when dragging tasks generated during the AI Epic creation process.
+
+
 # 1.8.8: Comprehensive Bug Fixes
 
 `Jan 24, 2025`
