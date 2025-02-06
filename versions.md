@@ -4,6 +4,24 @@ This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
 
+# 1.9.1: Enhancements and Bug Fixes
+
+`Feb 6, 2025`
+
+
+## Enhancements
+- Enhanced the ability to preview images on other users' profiles.
+- Improved the subscription mechanism for Epics, making it easier for users to follow the progress of Epics they are interested in.
+
+## Bug Fixes
+- Fixed bugs related to completing tasks and making revisions in recurring entries, ensuring smoother task management.
+- Resolved an issue when setting an epic image during the creation of an Epic from a template.
+- Addressed problems with setting notifications at the Epic level.
+- Fixed a bug that caused the app to crash during photo uploads, improving stability and user experience.
+- Corrected issues with revising New Year resolutions, ensuring that updates are processed correctly.
+
+
+
 # 1.8.9: Stability Improvement for AI-Generated Epics
 
 `Jan 30, 2025`
