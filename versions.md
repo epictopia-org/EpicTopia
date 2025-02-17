@@ -3,6 +3,14 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.9.2: Apple API Upgrades and Enhanced Logging
+
+`Feb 17, 2025`
+
+## Enhancements
+- Upgraded the API integration for VIP services to simplify processes and enhanced logging for original IDs.
+- Refined the error logging for uploads to ensure quicker resolution of issues.
+
 
 # 1.9.1: Enhancements and Bug Fixes
 
