@@ -3,6 +3,19 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+
+# 1.9.3: Voice Dictation Feature
+
+`Feb 25, 2025`
+
+## New Feature
+- Voice Dictation: Users can now input entries and text using voice, providing an alternative to typing.
+
+## Bug Fixes
+- Resolved a bug where viewers could mistakenly see others' content on the calendar view.
+
+
+
 # 1.9.2: Apple API Upgrades and Enhanced Logging
 
 `Feb 17, 2025`
