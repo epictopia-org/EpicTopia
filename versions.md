@@ -3,6 +3,20 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.9.4: Invite External Collaborators
+
+`Mar 7, 2025`
+
+## New Feature
+- Email Invitations for Collaboration: Now you can invite external users to collaborate or view your Epic through email invitations, broadening the scope for teamwork and shared access.
+
+## Enhancement
+- Revamped Collaborator & Viewer Management UI: The user interface for managing collaborators and viewers has been redesigned to be more intuitive and user-friendly, making it easier to control access and permissions.
+
+## Bug Fixes
+- Addressed a bug that caused the app to crash on profile views.
+- Resolved an issue where notifications were sometimes unresponsive to clicks.
+
 
 # 1.9.3: Voice Dictation Feature
 
