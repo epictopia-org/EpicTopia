@@ -3,15 +3,17 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
-# 1.9.4: Invite External Collaborators
+# 1.9.4: Cheers & Invite External Collaborators
 
-`Mar 7, 2025`
+`Mar 11, 2025`
 
 ## New Feature
+- Cheers: Encourage and celebrate other users' progress by sending one of five unique cheers to their Epics, fostering a supportive community environment.
 - Email Invitations for Collaboration: Now you can invite external users to collaborate or view your Epic through email invitations, broadening the scope for teamwork and shared access.
 
 ## Enhancement
 - Revamped Collaborator & Viewer Management UI: The user interface for managing collaborators and viewers has been redesigned to be more intuitive and user-friendly, making it easier to control access and permissions.
+- Focus Mode with Live Activities: Enhance focus sessions with Live Activities on the Lock Screen and the Dynamic Island, improving visibility during focus sessions.
 
 ## Bug Fixes
 - Addressed a bug that caused the app to crash on profile views.
