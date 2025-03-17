@@ -3,7 +3,18 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
-# 1.9.6: Cheers & Invite External Collaborators
+# 1.9.8: Guest Mode Improvements
+
+`Mar 17, 2025`
+
+Version 1.9.8 introduces important enhancements that improve functionality for AI-created Epics and expand capabilities in guest mode.
+
+## Enhancements
+- AI-Created Epics with Automatic Reminders: For AI-created to-do tasks, reminders are now automatically enabled to ensure users stay on track with their goals without needing to set reminders manually.
+- Enhanced Guest Mode: Enhanced accessibility for non-registered users to view detailed pages on Epics.
+
+
+# 1.9.7: Cheers & Invite External Collaborators
 
 `Mar 11, 2025`
 
