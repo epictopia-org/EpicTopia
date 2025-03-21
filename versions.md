@@ -3,6 +3,14 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 1.9.9: Explore Page Enhancement
+
+`Mar 20, 2025`
+
+## New Feature
+- Explore Others' Epics: The Explore page has been updated to allow users to view Epics from other users on popular topics, facilitating greater community inspiration.
+
+
 # 1.9.8: Guest Mode Improvements
 
 `Mar 17, 2025`
