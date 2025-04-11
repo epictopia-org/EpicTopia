@@ -3,6 +3,16 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
+# 2.0.0: Enhanced Onboarding
+
+`Apr 11, 2025`
+
+## Enhancements
+- Onboarding with Multiple Epics: The onboarding process now supports starting with multiple Epics, helping users launch several life pursuits right from the beginning.
+- Expanded Epico Presence: Epico now appears on more pages throughout the onboarding process.
+
+
+
 # 1.9.9: Explore Page Enhancement
 
 `Mar 20, 2025`
