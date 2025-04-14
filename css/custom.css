@@ -1,5 +1,8 @@
 #content-wrapper {
     padding-top: 30px;
     border-top: solid 1px #fff;
-    background-color: red;
+    background-color: red !important;
+}
+body {
+  background-color: green !important;
 }
