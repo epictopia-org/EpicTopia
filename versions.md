@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
+
 # What's New
 
 This page shows the detailed updates of each app version.
