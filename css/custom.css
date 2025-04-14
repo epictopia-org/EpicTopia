@@ -64,10 +64,11 @@ pre {
 
 
 header {
-    padding-top: 100px !important;
-    padding-bottom: 100px !important;
-    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-    background: #2e7bcf url(../assets/banner.png) 0 0 repeat-x;
+    width: 100vw;
+    background: white url(../assets/banner.png) 0 0 no-repeat;
+    background-size: contain;
+    padding-top: 30.6%;
+    border-bottom: solid 0px #275da1 !important;
 }
 
 header h1 {
