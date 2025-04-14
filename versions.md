@@ -1,3 +1,10 @@
+---
+layout: default
+title: Versions
+---
+
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # What's New
 
 This page shows the detailed updates of each app version.
