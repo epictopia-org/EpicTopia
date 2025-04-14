@@ -14,4 +14,6 @@ ul {
   ul li:hover {
     background-color: #e0e0e0;
   }
-  
+    body{
+    background-color: red;
+  }
