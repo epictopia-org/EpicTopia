@@ -1,0 +1,17 @@
+ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    background-color: #f4f4f4;
+    margin: 10px 0;
+    padding: 12px;
+    border-radius: 6px;
+    transition: background-color 0.3s;
+  }
+  
+  ul li:hover {
+    background-color: #e0e0e0;
+  }
+  
