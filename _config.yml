@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+# 加载额外的 CSS
+include:
+  - assets/css/custom.css
