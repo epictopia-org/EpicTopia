@@ -1,12 +1,7 @@
----
-layout: default
-title: Versions
----
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
-
-# What's New✨
+# What's New
 
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
