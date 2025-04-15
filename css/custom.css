@@ -65,7 +65,7 @@ pre {
 
 header {
     width: 100vw;
-    background: white url(../assets/banner.png) 0 0 no-repeat;
+    background: #f9f9f9 url(../assets/banner.png) 0 0 no-repeat;
     background-size: contain;
     padding-top: 25%;
     border-bottom: solid 0px #275da1 !important;
