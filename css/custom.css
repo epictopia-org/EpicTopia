@@ -65,16 +65,12 @@ pre {
 
 
 header {
-/*     width: 100vw;
-    background: #f9f9f9 url(../assets/banner.png) 0 0 no-repeat;
-    background-size: contain;
-    padding-top: 25%;
-    border-bottom: solid 0px #275da1 !important; */
     position: relative;
     left: 50%;
     transform: translateX(-50%);
-    max-width: 1310px;
-    height: 400px;
+    width: 60vw;
+    min-width: 375px;
+    height: 390px;
     background: #fafafa url(../assets/banner.png) 0 0 no-repeat;
     background-size: contain;
     /* 16:9 比例高度，调整为你图片的比例 */
