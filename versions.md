@@ -1,6 +1,18 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+
+# 2.0.1: Screenshot Update
+
+`Apr 19, 2025`
+
+## Enhancements
+- Upgraded App Screenshots: Updated the screenshots for the App Store to better reflect the latest features and visual design.
+
+## Bug Fix
+- Resolved an issue where users were unable to properly send encouragement to others' Epics.
+
+
 # 2.0.0: Enhanced Onboarding
 
 `Apr 11, 2025`
