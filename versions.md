@@ -2,6 +2,20 @@
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
 
+# 2.1.1: UI Improvements
+
+`May 6, 2025`
+
+Version 2.1.1 brings visual enhancements to the login and signup experience and resolves a display issue related to Epic permissions.
+
+## Enhancements
+- Improved the design of login and signup option buttons.
+- Refreshed the visual design with a new cover image for the login and signup screens.
+
+## Bug Fix
+- Resolved a display bug affecting the visibility of Epic permission settings.
+
+
 # 2.0.1: Screenshot Update
 
 `Apr 19, 2025`
