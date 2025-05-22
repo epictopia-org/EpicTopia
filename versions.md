@@ -1,6 +1,23 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 2.1.2: Event Tracking and UI Fixes
+
+`May 21, 2025`
+
+
+## Enhancement
+- Implemented event tracking to improve user experiences.
+
+## Bug Fix
+- Resolved a display bug that affected the layout of the login page.
+
+
+
+
+
+
+
 
 # 2.1.1: UI Improvements
 
