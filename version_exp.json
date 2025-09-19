@@ -1,0 +1,12 @@
+{
+    "latest":"1.0.2",
+    "lowest":"1.0.2",
+    "available":[
+        "1.0.2"
+    ],
+    "unavailable":[],
+    "description": {
+        "1.0.2": "⭐️ 新增成长周报：自动生成你的亮点与建议\n⚡️ 性能优化：启动更快、操作更顺滑"
+    },
+    "appstoreUrl":""
+}
