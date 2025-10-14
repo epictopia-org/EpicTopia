@@ -1,6 +1,14 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 2.1.3: Hotfix for iOS 25 Timeline Display Issue
+
+`Oct 13, 2025`
+
+## Bug Fix
+- Fixed a UI display issue on the timeline caused by compatibility changes in iOS 26.
+
+
 # 2.1.2: Event Tracking and UI Fixes
 
 `May 21, 2025`
