@@ -1,13 +1,15 @@
 {
-    "latest":"1.0.2",
-    "lowest":"1.0.2",
+    "latest":"1.1.0",
+    "lowest":"1.0.9",
     "available":[
-        "1.0.2"
+        "1.1.0",
+        "1.0.9"
     ],
     "unavailable":[],
     "description": {
         "1.0.2": ""
     },
-    "appstoreUrl":""
+    "appstoreUrl":"https://apps.apple.com/au/app/epico-ai-dreams-to-micro-wins/id6746153478"
 }
+
 
