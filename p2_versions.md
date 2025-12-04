@@ -1,6 +1,19 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+
+# 1.1.1: VIP Onboarding Update and AI Limit
+
+`Dec 4, 2025`
+
+## Enhancements
+
+- Optimized internal logic for assessment and reassessment features.
+- Redesigned the initial VIP onboarding screen:
+    - users now receive a 3-day free trial gift
+    - After the 3-day trial, membership is required
+    - Introduced a daily growth point limit (21 points/day). If exceeded, users are notified that the AI limit has been reached and invited to return the next day.
+
 # 1.1.0: Dark Mode and Onboarding Improvements
 
 `Nov 23, 2025`
