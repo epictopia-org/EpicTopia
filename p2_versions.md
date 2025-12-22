@@ -2,6 +2,14 @@
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
 
+# 1.1.2: Minor Enhancements
+`Dec 22, 2025`
+
+## Enhancements
+- Minor UI updates to the new user onboarding process
+- Minor improvements to language and time detection when creating a new hope / goal
+
+
 # 1.1.1: VIP Onboarding Update and AI Limit
 
 `Dec 4, 2025`
