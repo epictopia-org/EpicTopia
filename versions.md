@@ -1,6 +1,18 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 2.1.4: Fresh Start for the New Year
+
+`Dec 31, 2025`
+
+## New Features
+
+- Updated onboarding to better introduce the new concept of the app and help users get started with their 1st journal entries.
+- 2025 Year-End Recap!
+- Set Your 2026 Resolution
+- Introduced a new festive logo to celebrate the new year.
+
+
 # 2.1.3: Hotfix for iOS 25 Timeline Display Issue
 
 `Oct 13, 2025`
