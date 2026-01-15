@@ -1,6 +1,19 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 1.1.3: Minor Enhancements
+
+`Jan 14, 2026`
+
+## New Features
+- Your profile now reflects your personality and interests.
+- Handle personal information collected
+
+## Enhancements
+- AI now uses your profile to better tailor plans for you.
+- When you talk to AI while creating a new journey, key details about your goals are remembered and added to your profile to help with future guidance.
+
+
 
 # 1.1.2: Minor Enhancements
 `Dec 22, 2025`
