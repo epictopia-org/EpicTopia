@@ -1,6 +1,22 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+
+
+
+
+# 2.1.5: Minor Enhancements
+
+`Jan 20, 2026`
+
+## Enhancements
+- Reverted from the Christmas theme back to the standard app icon
+
+## Bug Fix
+- Fixed the timing of year-end review (Only available after Dec 20 each year)
+- Fixed the UI display on the launch page
+
+
 # 2.1.4: Fresh Start for the New Year
 
 `Dec 31, 2025`
