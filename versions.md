@@ -2,6 +2,16 @@
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
 
+# 2.1.6: 2026 New Year Vision & 2025 Recap Review
+
+`Feb 6, 2026`
+
+## New Features
+
+- 2026 New Year Vision: Set meaningful intentions for the year ahead.
+- 2025 Resolution Review: Reflect on the goals you set last year.
+- Annual Recap History: Easily view your past annual recaps in a clearer layout.
+
 
 
 
