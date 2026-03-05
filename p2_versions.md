@@ -1,6 +1,16 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 1.1.4: Enhanced AI Monitoring
+
+`Mar 5, 2026`
+
+Version 1.1.4 improves the reliability and tracking of AI features.
+
+## Enhancements
+- Moved AI Epic creation (via chat) from the iOS app to our backend AI service for a more stable experience.
+- Added token and cost tracking for AI model usage to improve monitoring and optimization.
+
 # 1.1.3: Minor Enhancements
 
 `Jan 14, 2026`
