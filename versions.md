@@ -2,6 +2,28 @@
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
 
+# 2.1.7: Turn Your Voice into a Journal Entry
+
+`Apr 10, 2026`
+
+Version 2.1.7 introduces a new voice-first creation experience, along with onboarding and performance improvements across the app.
+
+## New Features
+- You can now create a Post by voice, with AI turning your speech into structured content and automatically generating the result.
+- Added a new voice UI with voice-to-text switching, processing animations, ripple effects, and haptic feedback.
+- Voice-created Epics can now include an auto-generated cover image to make the journey feel more complete from the start.
+
+## Enhancements
+- Redesigned the Post editing flow to support both voice and text creation, with added guidance for new users.
+- Enhanced recording reliability to better handle interruptions and prevent audio loss.
+- Refreshed the launch screen with a new video-based opening and voice-focused entry experience.
+- Improved the registration and onboarding flow, optimized onboarding video playback, and removed the old login page.
+- Improved video loading and playback for a smoother experience with less flicker.
+
+## Bug Fixes
+- Fixed multiple UI and functional issues for a more stable experience.
+- Cleaned up unused guest mode code and other redundant logic.
+
 # 2.1.6: 2026 New Year Vision & 2025 Recap Review
 
 `Feb 6, 2026`
