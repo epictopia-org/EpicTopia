@@ -1,6 +1,27 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 2.1.9: Smoother Onboarding Experience 
+
+`Apr 17, 2026`
+
+Version 2.1.9 improves onboarding, refines AI behavior, and enhances overall performance and reliability.
+
+## New Features
+- Collaboration Clarity: In shared Epics, you can now see who created each post.
+
+## Enhancements
+- Improved Onboarding Flow: Smoother and clearer experience to help new users get started.
+- Better Epic Context Handling:
+- Daily View Loading: Added placeholders for faster perceived loading before posts appear.
+- Weekly Review Timing: Adjusted when weekly summaries appear for a more natural experience.
+- Faster Voice Creation: Improved performance for long voice inputs when creating Posts or Epics.
+- AI Usage: Calculate AI token usage and cost.
+
+## Bug Fixes
+- Fixed Voice Input Issue: Prevented AI from generating content when no speech is detected.
+- Fixed AI Comment Issues: Resolved duplicate comments and occasional errors.
+- Creating content inside an Epic now correctly stays within the current Epic.
 
 # 2.1.7: Turn Your Voice into a Journal Entry
 
