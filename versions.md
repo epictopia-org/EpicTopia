@@ -1,6 +1,30 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+
+# 2.2.0: Smarter Voice Creation and Richer AI Interactions
+
+`May 12, 2026`
+
+Version 2.2.0 introduces major improvements to voice creation and  compatibility for a smoother experience.
+
+## New Features
+- Offline Voice Saving: If there is no internet connection, recorded voice can now be downloaded and safely stored on your device, then processed by AI later when the connection returns — ensuring no data is lost.
+- Better Markdown & HTML Support: Improved compatibility when pasting Markdown or HTML content, with better table rendering, copy behavior, and rich text display.
+
+## Enhancements
+- Improved Voice Creation Experience: Enhanced speech-to-text quality, long audio processing, and AI content organization for more accurate and smoother voice-generated entries.
+- New AI Insights and AI Reply Features: Added AI-generated insights and AI-powered comment replies with improved interaction flows and user experience.
+- Enhanced Comment Experience: Added support for expanding/collapsing threaded replies, copying comments, displaying AI reply status, and retrying failed AI replies.
+- Improved Likes Page and Profile UI: Optimized the Likes page for easier browsing of liked content, along with refreshed profile page interactions and UI improvements.
+- Refined UI Details: Improved details across notifications, trackers, and Epic privacy indicators for a cleaner and more polished experience.
+
+## Bug Fixes
+- Improved Post Detail Loading: Reduced issues where content appeared blank or loaded incorrectly in Post detail pages.
+- Fixed Widget Launch Issues: Resolved bugs related to opening the app into Daily View from widgets.
+
+
+
 # 2.1.9: Smoother Onboarding Experience 
 
 `Apr 17, 2026`
