@@ -1,6 +1,40 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 2.2.2
+
+`Jun 11, 2025`
+
+Version 2.2.2 introduces AI-generated Epic Summaries to help you quickly reflect on your journey and progress.
+
+## New Features
+- Generate AI-powered summaries for your Epics:
+ - Progress tracking for unlocking AI Summaries.
+ - Regenerate summaries as new entries are added.
+
+## Enhancements
+- Improved Epic Summary page with enhanced statistics and progress visualization.
+- Added onboarding guidance for timeline and month views.
+
+## Bug Fixes
+- Resolved multiple issues related to AI-generated Posts and Epics.
+
+# 2.2.1
+
+`May 26, 2026`
+
+## Enhancements
+- Voice-to-entry now better identifies trackable details such as duration, distance, quantity, and categories, then automatically links them to the right Epic tracker.
+- Saved voice drafts now support preview, playback, progress dragging, continued conversion into entries, and easier deletion.
+- Improved the editing experience for entries with trackers, including tracker handling when switching Epics and editing AI-recommended trackers.
+- Added guidance on the Explore page to explain that private content is not public by default.
+- Optimized comment reply.
+- Improved rich text pasting and Markdown display, especially for complex formatted text, lists, and paragraph spacing.
+- Refined multiple UI details
+- Optimized navigation behavior after tapping notifications.
+
+## Bug Fixes
+- Fixed known issues and improved overall stability.
 
 # 2.2.0: Smarter Voice Creation and Richer AI Interactions
 
