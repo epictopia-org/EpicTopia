@@ -1,6 +1,25 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+
+# 2.2.3: Life Focus Trends and Smarter Voice Creation
+
+`Jun 26, 2026`
+
+Version 2.2.3 introduces new ways to understand how your life focus changes over time, along with improvements to voice-created posts and AI-powered entry insights.
+
+## New Features
+
+- Life Focus Trends: View how your focus shifts across different themes and Epics over weeks, months, years, or all time.
+- Post Signals and Insights: Post detail pages now include signals and AI-generated insights to help you better understand each entry.
+
+## Enhancements
+
+- Improved Voice Creation Flow: Voice and text creation now support background data loading for a smoother experience.
+- Automatic Post and Epic Creation: Voice-created or text-created content can now be generated into posts or Epics more seamlessly.
+- AI Entry Analysis: AI can now analyze and store deeper insights from individual posts to support more personalized reflection.
+
+
 # 2.2.2
 
 `Jun 11, 2025`
