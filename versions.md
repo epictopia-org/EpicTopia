@@ -1,6 +1,15 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 2.2.4: Post Detail and Voice Entry Fixes
+
+`Jul 6, 2026`
+
+Version 2.2.4 focuses on bug fixes to improve post detail loading, formatting, and voice-created entry reliability.
+
+## Bug Fixes
+- Fixed an issue where the post detail page could open without showing the main content.
+- Fixed formatting issues in post content display.
 
 # 2.2.3: Life Focus Trends and Smarter Voice Creation
 
