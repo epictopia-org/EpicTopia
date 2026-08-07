@@ -1,6 +1,24 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 2.2.5: Introducing Self
+
+`Aug 7, 2026`
+
+Version 2.2.5 launches an entirely new Self section, giving you a holistic view of your inner life by surfacing the moods, energy, and patterns that shape your journey.
+
+## New Features
+
+- Self Section: A brand-new space that brings together reflections about who you are and how you are doing over time.
+- Mood Detection: Automatically detects and surfaces the moods present across your entries.
+- Energy Insights: Highlights what consumes your energy and what nourishes you, so you can see where your energy goes.
+- Hidden Patterns: Reveals recurring patterns across different areas of your life that might otherwise go unnoticed.
+- Emerging Directions: Identifies the new directions and themes your life is moving toward.
+- Life Curve: Visualizes the ups and downs of your entire life journey in a single, continuous curve.
+
+## Enhancements
+- Enhanced the onboarding process to make it more user friendly.
+
 # 2.2.4: Post Detail and Voice Entry Fixes
 
 `Jul 6, 2026`
