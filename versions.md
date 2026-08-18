@@ -1,6 +1,16 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 2.2.6: Self Section Refinements
+
+`Aug 18, 2026`
+
+## Enhancements
+- Improved signal generation, editing, and display for entries.
+- Improved the process for unlocking insights.
+- Upgraded the calendar display at the top of Daily Management.
+- Added individual configuration options for four modules in the Self section.
+
 # 2.2.5: Introducing Self
 
 `Aug 7, 2026`
