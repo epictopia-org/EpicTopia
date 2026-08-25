@@ -1,6 +1,14 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+
+# 2.2.7: New Screenshots
+
+`Aug 25, 2026`
+
+## Enhancements
+- Updated the screenshots on the app store
+
 # 2.2.6: Self Section Refinements
 
 `Aug 18, 2026`
