@@ -2,6 +2,16 @@
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
 
+
+# 2.2.8
+
+`Sep 2, 2026`
+
+## Enhancements
+- Improved the calendar view for entries
+- Improved the process for unlocking insights
+
+
 # 2.2.7: New Screenshots
 
 `Aug 25, 2026`
