@@ -1,7 +1,13 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 2.2.9
 
+`Oct 1, 2026`
+
+## Enhancements
+- Bug fixes
+- Upgraded backend services
 
 # 2.2.8
 
