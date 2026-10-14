@@ -1,6 +1,15 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 3.0.0
+
+`Oct 14, 2026`
+
+## Enhancements
+- Bug fixes
+- Moved voice model processing to the backend for better performance and reliability
+- Improved the date range selection and loading speed of the Insights section
+
 # 2.2.9
 
 `Oct 1, 2026`
