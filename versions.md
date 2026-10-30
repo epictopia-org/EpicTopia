@@ -1,6 +1,18 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 3.0.1
+
+`Oct 30, 2026`
+
+## New Features
+- Free AI Creation Trial: Every non-member account can try voice or text AI creation 5 times (shared across both).
+- Date Recognition: Voice and text creation now understand dates like "yesterday," "tomorrow," or "next Friday" and file the entry under the right day.
+
+## Enhancements
+- Smoother onboarding path to Insights
+- Better comments and replies user experience
+
 # 3.0.0
 
 `Oct 14, 2026`
