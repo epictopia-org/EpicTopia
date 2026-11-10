@@ -1,6 +1,19 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 3.0.2
+
+`Nov 10, 2026`
+
+## New Features
+- Quick Access: Start a voice recording, create an entry, or open Focus from Shortcuts or Control Center. You can also start a voice recording with Siri.
+- Creation Task List: AI creation can continue in the background after you submit. Track progress, recover drafts and results, and retry failed tasks from the new task list on Home.
+
+## Enhancements
+- Recording Recovery: Keep the audio you've already recorded and resume after an interruption. Recording status and progress are now clearer on the Lock Screen and Dynamic Island.
+- Onboarding and AI Insights: View AI insight cards after creating your first entry, and revisit saved AI insights in your own entries.
+- Improved membership and trial messaging, fixed an issue that could sign you out after an app update, and improved reliability on unstable networks.
+
 # 3.0.1
 
 `Oct 30, 2026`
