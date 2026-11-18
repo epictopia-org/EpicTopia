@@ -1,6 +1,17 @@
 
 <link rel="stylesheet" href="{{ '/css/custom.css' | relative_url }}">
 
+# 3.0.3
+
+`Nov 17, 2026`
+
+## New Features
+- Redesigned Home: Faster access to voice journaling, new entries, and Focus, with a livelier Epico.
+- Smarter Notifications and Daily Spark: Topics now draw on your recent entries.
+
+## Enhancements
+- More reliable voice journaling, image handling, and template and membership loading.
+
 # 3.0.2
 
 `Nov 10, 2026`
