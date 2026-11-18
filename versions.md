@@ -6,15 +6,11 @@
 `Nov 17, 2026`
 
 ## New Features
-- Redesigned Home: Voice recording, new entries, and Focus are now gathered on Home, so everyday actions are easier to reach. Epico also has new animations, expressions, and tap interactions.
-- First-Entry Reminder: After you finish onboarding and save your first entry, you may receive a reminder the next day inspired by that entry. Open the notification to jump into voice recording, with the reminder question already shown.
-- Daily Spark: Get journaling ideas drawn from your recent entries and Epic context, along with a short explanation of why each topic is recommended.
+- Redesigned Home: Faster access to voice journaling, new entries, and Focus, with a livelier Epico.
+- Smarter Notifications and Daily Spark: Topics now draw on your recent entries.
 
 ## Enhancements
-- Recording and AI Tasks: Recover more reliably after a recording is interrupted, the network drops briefly, or a request times out. Task status resyncs when you reopen the app or come back online, so drafts and generated results are easier to find and less likely to be submitted twice. Failed tasks you choose to handle later stay in the list.
-- Editing and Lists: Improved the entry editor and template loading. If a template fails to load, your existing content is kept; switching Epics shows the matching template. Home, Calendar, and lists now stay in sync more promptly after you add, edit, delete, or change an entry's date.
-- Photos and Sharing: Clearer retry when a photo or avatar upload fails, and more reliable display after you update an avatar or cover. Sharing multiple photos from other apps now keeps their original order and skips attachments that can't be read.
-- Notifications and Membership: Smoother notification list loading and a more accurate view after you switch accounts. Improved restore purchases, subscription ownership sync, and membership status refresh, with fewer interruptions when a background refresh fails.
+- More reliable voice journaling, image handling, and template and membership loading.
 
 # 3.0.2
 
